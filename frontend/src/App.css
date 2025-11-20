@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.banner-container {
+  margin: 20px 0;
+  width: 100%;
+}
+
+.running-banner {
+  background-color: #61dafb;
+  color: #000;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+marquee {
+  width: 100%;
+}
